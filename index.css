@@ -45,7 +45,7 @@ main {
 }
 #inpainted-music h2, #controll-number-of-bars h2,
 #inpainted-music h3, #controll-number-of-bars h3  {
-  color: #9932cc;
+  color: #800080;
   opacity: 0.9;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -115,7 +115,7 @@ midi-visualizer svg rect.note.active {
 }
 
 #inpainted-music a, #controll-number-of-bars a {
-  color:#9932cc;
+  color:#800080;
   display: block;
   padding: 1rem 1.5rem;
   margin-bottom: -1px;
@@ -132,12 +132,12 @@ midi-visualizer svg rect.note.active {
   /* border-color: #e0e0e0;
   border-bottom-color: #fefefe; */
   /* padding: 1rem 2rem; */
-  background: #e96443;
+  background: #800080;
   color: #fefefe;
 }
 #inpainted-music a:hover, #controll-number-of-bars a:hover,
 #inpainted-music a.selected:hover, #controll-number-of-bars a.selected:hover  {
-  background: #9932cc;
+  background: #800080;
   color: #ffffff;
   cursor: pointer;
 }
@@ -157,7 +157,7 @@ midi-visualizer svg rect.note.active {
 
 .site-footer-credit a {
   text-decoration: none;
-  color:#9932cc;
+  color:#800080;
   opacity: 0.9;
 }
 
