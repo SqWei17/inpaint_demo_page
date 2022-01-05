@@ -93,7 +93,7 @@ midi-visualizer svg rect.note {
 
 ####增加颜色轨
 midi-visualizer svg rect.note[data-instrument="0"]{
-  fill: slategrey;
+  fill: #904e95;
 }
 midi-visualizer svg rect.note[data-instrument="1"] {
   fill: #e22;
