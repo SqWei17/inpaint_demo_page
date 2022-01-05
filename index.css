@@ -10,7 +10,7 @@ html, body {
   padding: 3rem;
   text-align: center;
   color: #fff;
-  background: linear-gradient(to right, #e96443, #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #9932cc, #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .page-header h2 {
   font-weight: normal;
@@ -45,7 +45,7 @@ main {
 }
 #inpainted-music h2, #controll-number-of-bars h2,
 #inpainted-music h3, #controll-number-of-bars h3  {
-  color: #e96443;
+  color: #9932cc;
   opacity: 0.9;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -115,7 +115,7 @@ midi-visualizer svg rect.note.active {
 }
 
 #inpainted-music a, #controll-number-of-bars a {
-  color:#e96443;
+  color:#9932cc;
   display: block;
   padding: 1rem 1.5rem;
   margin-bottom: -1px;
@@ -137,7 +137,7 @@ midi-visualizer svg rect.note.active {
 }
 #inpainted-music a:hover, #controll-number-of-bars a:hover,
 #inpainted-music a.selected:hover, #controll-number-of-bars a.selected:hover  {
-  background: #e96443;
+  background: #9932cc;
   color: #ffffff;
   cursor: pointer;
 }
@@ -157,7 +157,7 @@ midi-visualizer svg rect.note.active {
 
 .site-footer-credit a {
   text-decoration: none;
-  color:#e96443;
+  color:#9932cc;
   opacity: 0.9;
 }
 
