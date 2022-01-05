@@ -10,7 +10,7 @@ html, body {
   padding: 3rem;
   text-align: center;
   color: #fff;
-  background: linear-gradient(to right, #9932cc, #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #3c153f, #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .page-header h2 {
   font-weight: normal;
