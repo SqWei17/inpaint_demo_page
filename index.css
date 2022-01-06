@@ -43,7 +43,9 @@ html, body {
 main {
   padding: 2rem 1rem;
 }
-#inpainted-music h2, #controll-number-of-bars h2,
+#inpainted-music h2, #controll-number-of-bars h2{
+  color: #000000;
+}
 #inpainted-music h3, #controll-number-of-bars h3  {
   color: #904e95;
   opacity: 0.9;
