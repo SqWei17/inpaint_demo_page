@@ -101,7 +101,7 @@ midi-visualizer svg rect.note[data-instrument="1"] {
   fill: #e22;
 }
 midi-visualizer svg rect.note[data-instrument="2"]{
-  fill: slategrey;
+  fill: #D4D4D4;
 }
 
 
