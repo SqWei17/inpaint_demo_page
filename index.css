@@ -162,4 +162,10 @@ midi-visualizer svg rect.note.active {
   color:#800080;
   opacity: 0.9;
 }
+.site-footer-credit a {
+  display: inline-block !important;
+  padding: 0 !important;
+  width: auto !important;
+  border: 0 !important;
+}
 
